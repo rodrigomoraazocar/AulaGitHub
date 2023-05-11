@@ -1,3 +1,4 @@
-#Arquivos para serem ignorados
+#Arquivos para serem ignorados by Rodrigo Mora
 .idea/
 *.txt
+desktop.ini
